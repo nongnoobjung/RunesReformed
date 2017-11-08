@@ -234,7 +234,7 @@ namespace RuneReformed1._0._15
                 int rune6 = runeResponseBody.perkSix;
                 int secondary = runeResponseBody.styleTwo;
 
-                var inputLCUx = @"{""name"":""" + "RR - " + name + "\",\"primaryStyleId\":" + Runestart + ",\"selectedPerkIds\": [" +
+                var inputLCUx = @"{""name"":""" + name + "\",\"primaryStyleId\":" + Runestart + ",\"selectedPerkIds\": [" +
                                 rune1 + "," + rune2 + "," + rune3 + "," + rune4 + "," + rune5 + "," + rune6 +
                                 "],\"subStyleId\":" + secondary + "}";
 
