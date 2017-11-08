@@ -35,5 +35,8 @@ Also if i have made any mistakes at all please put them as issues here or post i
 ## Thanks to
 
 DatThomaSs - Making the API / Database.
+
 the RiotAPIDevCommunity discord - answering my stupid questions.
+
 You - For hopefully using the program.
+
