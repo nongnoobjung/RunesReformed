@@ -1,99 +1,16 @@
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\JsonFx.dll
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\JsonFx.xml
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
-c:\users\fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb
-C:\Users\Fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Fumi\source\repos\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\JsonFx.dll
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\JsonFx.xml
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
-W:\RunesReformedProject\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\JsonFx.dll
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\JsonFx.xml
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
-C:\Users\Fumi\Desktop\RuneReformed1.0.15\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\JsonFx.dll
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\JsonFx.xml
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
-C:\Users\Fumi\source\repos\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\JsonFx.dll
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\JsonFx.xml
-W:\Riport network\RuneReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
-W:\Riport network\RuneReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb
-<<<<<<< HEAD
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\JsonFx.dll
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\JsonFx.xml
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
-C:\Users\Fumi\Desktop\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb
-=======
->>>>>>> 56fd5734e5636c16a5b25ec92d61e4b40ae0b59b
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe.config
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.exe
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\RuneReformed1.0.15.pdb
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.dll
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\JsonFx.dll
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\EasyHttp.pdb
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\JsonFx.xml
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csprojResolveAssemblyReference.cache
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Form1.resources
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1._0._15.Properties.Resources.resources
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.GenerateResource.Cache
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.csproj.CoreCompileInputs.cache
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.exe
+C:\Users\Fumi\Desktop\RunesReformed\RunesReformed\RuneReformed1.0.15\obj\Debug\RuneReformed1.0.15.pdb

@@ -108,7 +108,6 @@ namespace RuneReformed1._0._15
 
                 this.platformId = getregion.DynamicBody;
 
-<<<<<<< HEAD
                 foreach (KeyValuePair<string, object> x in summonerinfo)
                 {
                     if (x.Key == "displayName")
@@ -117,15 +116,7 @@ namespace RuneReformed1._0._15
                         accountId = (int)x.Value;
                     if (x.Key == "summonerId")
                         summonerId = (int)x.Value;
-=======
-                foreach (KeyValuePair<string, object> x in summonerinfo) {
-                    if (x.Key == "displayName")
-                        summonerName = x.Value.ToString();
-                    if (x.Key == "accountId")
-                        accountId = (int) x.Value;
-                    if (x.Key == "summonerId")
-                        summonerId = (int) x.Value;
->>>>>>> 56fd5734e5636c16a5b25ec92d61e4b40ae0b59b
+
                 }
                 ThreadStart ts = new ThreadStart(loadRunesAndChampions);
                 Thread loader = new Thread(ts);
@@ -138,22 +129,11 @@ namespace RuneReformed1._0._15
 
         public void loadRunesAndChampions()
         {
-<<<<<<< HEAD
             try
             {
-                var responsechampionlist = http.Get(this.apiBaseURL + "/rr-api/v2/champions");
-                var championlist = responsechampionlist.DynamicBody;
 
-                foreach (var y in championlist)
-                {
-                    addItemToChampBox(this, ChampBox, y.displayName);
-                    Champions.Add(new ChampionData(y.uuid, y.displayName));
-                }
 
-                var responseapi = http.Get(this.apiBaseURL + "/rr-api/v2/runes");
-                var getchamps = responseapi.DynamicBody;
 
-=======
             var responsechampionlist = http.Get(this.apiBaseURL + "/rr-api/v2/champions");
             var championlist = responsechampionlist.DynamicBody;
 
@@ -165,7 +145,6 @@ namespace RuneReformed1._0._15
 
             var responseapi = http.Get(this.apiBaseURL + "/rr-api/v2/runes");
             var getchamps = responseapi.DynamicBody;
->>>>>>> 56fd5734e5636c16a5b25ec92d61e4b40ae0b59b
 
                 foreach (var x in getchamps)
                 {
@@ -181,16 +160,6 @@ namespace RuneReformed1._0._15
                 MessageBox.Show("Looks like the API is unavailable, try again later.");
                 this.Close();
             }
-        }
-
-        public void sendTelemetryCall()
-        {
-            String json = "{\"application\":\"RunesReformed\",\"summonerName\":\"" + summonerName + "\",\"accountId\":" + accountId + ",\"summonerId\":" + summonerId + ",\"platformId\":\"" + platformId + "\"}";
-            var telHttp = new HttpClient();
-            telHttp.Request.Accept = HttpContentTypes.ApplicationJson;
-
-            //String enc = ReportMyTeam.RMTEncrypt.EncryptText(json, publicKey);
-            telHttp.Post(apiBaseURL + "/application-telemetry/v1/submit", json, HttpContentTypes.ApplicationJson);
         }
 
         public void sendTelemetryCall()
@@ -237,7 +206,6 @@ namespace RuneReformed1._0._15
             timer.Tick += timer_Tick;
             timer.Start();
             SetRunes.Enabled = false;
-<<<<<<< HEAD
             try
             {
                 String selectedPage = RuneBox.SelectedItem.ToString();
@@ -282,38 +250,6 @@ namespace RuneReformed1._0._15
             {
                 MessageBox.Show("Something somewhere went wrong, show this to the admin " + f.Message);
             }
-=======
-            String selectedPage = RuneBox.SelectedItem.ToString();
-            String runeUuid = "";
-            foreach (RuneData rd in Runes)
-                if (rd.displayName == selectedPage)
-                    runeUuid = rd.uuid;
-
-            string champion = ChampBox.SelectedItem.ToString();
-            string champUUID = "";
-
-            foreach (ChampionData cd in Champions)
-                if (champion == cd.displayName)
-                    champUUID = cd.uuid;
-
-            var responseRunes = Form1.http.Get(this.apiBaseURL + "/rr-api/v2/champions/" + champUUID + "/runes/" + runeUuid);
-            var runeResponseBody = responseRunes.DynamicBody;
-
-            int Runestart = runeResponseBody.styleOne;
-            string name = runeResponseBody.pageName;
-            int rune1 = runeResponseBody.perkOne;
-            int rune2 = runeResponseBody.perkTwo;
-            int rune3 = runeResponseBody.perkThree;
-            int rune4 = runeResponseBody.perkFour;
-            int rune5 = runeResponseBody.perkFive;
-            int rune6 = runeResponseBody.perkSix;
-            int secondary = runeResponseBody.styleTwo;
-
-            var inputLCUx = @"{""name"":""" + "RR - " + name + "\",\"primaryStyleId\":" + Runestart + ",\"selectedPerkIds\": [" +
-                       rune1 + "," + rune2 + "," + rune3 + "," + rune4 + "," + rune5 + "," + rune6 +
-                       "],\"subStyleId\":" + secondary + "}";
->>>>>>> 56fd5734e5636c16a5b25ec92d61e4b40ae0b59b
-
 
 
 
