@@ -1,5 +1,8 @@
 # RunesReformed
 
+###An automatic rune setter for league of legends preseason rune changes, with over 160+ pages, with more coming everyday.
+
+
 ## How to use
 [Download here.](https://github.com/Fumi24/RunesReformed/files/1454620/RunesReformed.zip)
 
