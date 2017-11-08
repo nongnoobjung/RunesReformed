@@ -8,11 +8,17 @@ An automatic rune setter for league of legends preseason rune changes, with over
 
 
 Open League of legends.
+
 Login
+
 Open runesreformed
+
 Select any champion
+
 Select a page.
+
 Click "Set Runes"
+
 
 You should now have a basic rune page for any champion in league
 
